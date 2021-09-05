@@ -2651,6 +2651,17 @@
       "image":""
    },
    {
+    "name": "Critopoap.com",
+    "name_en": "Critopoap.com",
+    "desc": "NFT 用於證明出席或參與社交體驗",
+    "desc_en": "NFTs for proof of attendance or participation in a social experience",
+    "url": "https://criptopoap.com/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/criptopoap.png",
+    "image": "",
+},
+   {
       "name":"Gnosis",
       "name_en":"",
       "desc":"",
